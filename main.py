@@ -2,7 +2,7 @@ import telebot
 import random
 
 # MASUKKAN TOKEN BOT ANDA DI SINI
-TOKEN = "GANTI_DENGAN_TOKEN_BOT_ANDA_DARI_BOTFATHER"
+TOKEN = "8838856644:AAGOa0I0TYdGh_Hr2CUo6bs57raRZC0lntY"
 bot = telebot.TeleBot(TOKEN)
 
 # Penyimpanan data game sementara (di memori RAM)
